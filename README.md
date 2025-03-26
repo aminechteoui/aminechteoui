@@ -1,5 +1,5 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=31E8C7&width=435&height=60&lines=%F0%9F%8C%9F++Amine+Chteoui++%F0%9F%8C%9F" alt="Typing SVG" /></a> <br> <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=D5F8BC&width=435&height=60&lines=%F0%9F%92%BB+Software+Engineer+%F0%9F%92%BB;%F0%9F%92%BB+MERN+Stack+Developer++%F0%9F%92%BB" alt="Typing SVG" /></a></h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=D5F8BC&width=435&height=60&lines=%F0%9F%92%BB+Software+Engineer+%F0%9F%92%BB;%F0%9F%92%BB+Full+Stack+Developer++%F0%9F%92%BB" alt="Typing SVG" /></a></h1>
 
 <br>
 <div>
