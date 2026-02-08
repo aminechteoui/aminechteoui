@@ -6,7 +6,14 @@
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width = 220px />
     
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=31E8C7&width=435&height=60&lines=Welcome+to+my+GitHub+profile!++" alt="Typing SVG" /></a>  <br>
-I am a **final-year Software Engineering student** passionate about creating **innovative, scalable, and impactful software solutions**. With expertise in the **MERN stack** (MongoDB, Express.js, React, Node.js) and a strong focus on **modern web development**, I strive to craft seamless user experiences and efficient backend systems.
+I am a **Software Engineer** specialized in **Full Stack Web & Mobile Development** with strong skills in **Angular, Django, Node.js, and Flutter**.
+
+I have worked on several impactful projects, including an **AI-powered collaborative project management platform** featuring real-time chat, analytics dashboards, task automation, and modern UI/UX components.
+
+I enjoy solving challenging technical problems, designing scalable systems, and building clean, maintainable code. I am also passionate about **AI, automation, and innovative digital solutions**.
+
+I am actively seeking new opportunities to contribute, learn, and grow within dynamic engineering teams.
+
 
 
 </div>
